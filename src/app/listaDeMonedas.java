@@ -11,9 +11,9 @@ public class listaDeMonedas {
             "FOK", "GEL", "GGP", "GHS", "GIP", "GMD", "GNF", "GTQ", "GYD", "HNL",
             "HRK", "HTG", "HUF", "IDR", "ILS", "IMP", "IQD", "IRR", "ISK", "JEP",
             "JMD", "JOD", "KGS", "KHR", "KID", "KMF", "KWD", "KYD", "KZT", "LAK",
-            "LBP", "LKR", "LRD", "LSL", "LYD", "MAD", "MDL", "MGA", "MKD", "MMK",
-            "MNT", "MOP", "MRU", "MUR", "MVR", "MWK", "MYR", "MZN", "NAD", "NGN",
-            "NIO", "NPR", "OMR", "PAB", "PEN", "PGK", "PHP", "PKR", "PLN", "PYG",
+            "LBP", "LKR", "LRD", "LSL", "LYD", "MAD", "MDL", "MGA", "MKD", "MMK",  //array de monedas para los conbobox
+            "MNT", "MOP", "MRU", "MUR", "MVR", "MWK", "MYR", "MZN", "NAD", "NGN",  //y usados en el metodo de EjecucionConversion
+            "NIO", "NPR", "OMR", "PAB", "PEN", "PGK", "PHP", "PKR", "PLN", "PYG",  //para llamar la moneda requerida
             "QAR", "RON", "RSD", "RWF", "SAR", "SBD", "SCR", "SDG", "SHP", "SLE",
             "SLL", "SOS", "SRD", "SSP", "STN", "SYP", "SZL", "THB", "TJS", "TMT",
             "TND", "TOP", "TTD", "TVD", "TWD", "TZS", "UAH", "UGX", "UYU", "UZS",
