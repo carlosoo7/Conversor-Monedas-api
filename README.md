@@ -1,7 +1,8 @@
 # Conversor de Monedas
 
-Este es un proyecto de conversor de monedas desarrollado en Java. Permite a los usuarios convertir entre diferentes divisas utilizando tasas de cambio actualizadas. La aplicación tiene una interfaz gráfica que es fácil de usar y proporciona resultados instantáneos.
+Este es un proyecto de conversor de monedas desarrollado en Java. Permite a los usuarios convertir entre diferentes divisas utilizando tasas de cambio actualizadas. La aplicación tiene una interfaz gráfica que es fácil de usar y proporciona resultados instantáneos y actualizados constantemente a tiempo real a travez de consumo de una api.
 
+![Ejecucion Inicial](src/ReadmeAssets/Ejecucion.png)
 
 
 ## Características
@@ -54,6 +55,11 @@ Este es un proyecto de conversor de monedas desarrollado en Java. Permite a los 
    - Elegir la moneda a la que deseas convertir.
    - Ingresar la cantidad a convertir.
    - Hacer clic en el botón "Convertir" para ver el resultado.
+
+  
+Resultado
+
+![Ejecucion Inicial](src/ReadmeAssets/Resultado.png)
 
 ## Estructura del Código
 
